@@ -74,7 +74,7 @@ picture {
 
 .header {
   padding: 1em 0;
-  background-color: #000;
+  background-color: #455273;
   color: #fff;
 }
 
@@ -112,7 +112,7 @@ main {
   max-width: 300px;
   padding: 2em;
   border-radius: 15px;
-  background-color: rgba(42,50,76,.7);
+  background-color: #455273;
   color: #fff;
 }
 @media (max-width: 400px) {
@@ -151,7 +151,7 @@ main {
   display: block;
   line-height: 1.5em;
   line-height: 1.5em;
-  color: rgb(7, 53, 114);
+  color: rgb(176, 189, 59);
 }
 
 .link__text {
@@ -168,7 +168,7 @@ main {
 
 .footer {
   padding: 2em 0;
-  background-color: #000;
+  background-color: #455273;
   color: #fff;
 }
 
