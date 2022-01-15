@@ -112,8 +112,9 @@ main {
   max-width: 300px;
   padding: 2em;
   border-radius: 15px;
-  background-color: #455273;
-  color: #fff;
+  /* background-color: #455273; */
+  /* color: #fff; */
+  border: 2px solid #455273;
 }
 @media (max-width: 400px) {
   .card-photo {
@@ -142,6 +143,10 @@ main {
   width: 100%;
 }
 
+.photo__img {
+  border-radius: 15px;
+}
+
 .name {
   line-height: 1.5em;
   text-align: center;
@@ -151,11 +156,11 @@ main {
   display: block;
   line-height: 1.5em;
   line-height: 1.5em;
-  color: rgb(176, 189, 59);
+  color: blue;
 }
 
 .link__text {
-  color: #fff;
+  color: #000;
 }
 
 .address {
